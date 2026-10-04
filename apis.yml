@@ -39,7 +39,6 @@ apis:
   - name: Boston MBTA Transit
     description: "Stations and predicted arrivals for MBTA"
     humanURL: https://www.mbta.com/developers/v3-api
-    baseURL: https://www.mbta.com/developers/v3-api
     tags:
       - Transportation
     properties:
